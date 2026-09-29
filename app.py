@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 # 1. Set up the look of your app
-st.title("My Gemini Web App")
+st.title("Najaf-accommodation-App")
 st.write("Welcome! Ask the AI a question below.")
 
 # 2. Securely get the API key 
